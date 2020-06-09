@@ -1,0 +1,4 @@
+url https://raw.githubusercontent.com/nikolaevich23/roleplay/lauch/connect.csv
+url_demos https://raw.githubusercontent.com/nikolaevich23/master/otherlist.csv
+url_emulators https://github.com/roleplay-ps3/launcher/emulators.csv
+ 
